@@ -5,6 +5,7 @@ Practica 2.1 GitHub \
 
 ## Table of Contents. 
 -  [Introduction](Introduction) 
+![Project Logo](imatges/logo.png.png)
 -  [Features](Features)
 -  [Installation](https://git-scm.com/docs)
 -  [Usage](https://git-scm.com/docs)
