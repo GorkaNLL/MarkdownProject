@@ -8,7 +8,7 @@ Practica 2.1 GitHub \
 Nova linea part 12 
 
 
-![Project Logo](imatges/logo.png.png)
+![Project Logo](Imatges/logo.png.png)
 
 
 -  [Features](Features) \
