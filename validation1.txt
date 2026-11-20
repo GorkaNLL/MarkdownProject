@@ -1,0 +1,90 @@
+commit b31e06e92a0f55b73b663c8b1fbbddf4c513eb34
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:41:55 2026 +0100
+
+    Update Introduction of README.md
+
+ README.md | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 911921b72ad1bfaa4d7b1cd69cbec34d53b49b91
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:28:58 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 940acf5b1aeb9ada17a3492b6725809f1c418ff7
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:23:39 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 22 +++++++++++++++++++++-
+ 1 file changed, 21 insertions(+), 1 deletion(-)
+
+commit b87f247df924d0011c22c32b0c71b211e53c94e7
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:18:53 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 386cd572720bdc4c0f1e3faf840e5db6e4eb08c8
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:13:02 2026 +0100
+
+    Add project logo to README
+
+ Imatges/logo.png.png | Bin 0 -> 286119 bytes
+ README.md            |   1 +
+ 2 files changed, 1 insertion(+)
+
+commit 7d98c0c0ea4b79ae3f6ebd3678bf1f23935e9546
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 13:07:48 2026 +0100
+
+    Add Sections to README
+
+ README.md | 10 +++++-----
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+commit f557835347584b36423730703677eee77a9b82a8
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 13 14:21:53 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 0f803c17deeee1385b7553432cc01d8e0a6eebe9
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 13 14:04:41 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit c1ec6fcab600d6cab4b4d23643cd1a7fbab1549c
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 13 14:00:25 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 424229fef344b45c8a8fa0d1131445376ea9820e
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 13 13:55:42 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
