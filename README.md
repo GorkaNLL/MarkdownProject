@@ -4,8 +4,8 @@ Practica 2.1 GitHub \
 
 
 ## Table of Contents. 
-- Introduction 
-- Features 
-- Installation 
-- Usage 
-- License 
+-  [Introduction](Introduction) 
+-  [Features](Features)
+-  [Installation](https://git-scm.com/docs)
+-  [Usage](https://git-scm.com/docs)
+-  [License](https://git-scm.com/docs)
