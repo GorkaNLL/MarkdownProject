@@ -1,3 +1,31 @@
+commit 022ae4b71561b85b1680e5beb0f8f32f3c362080
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 14:23:06 2026 +0100
+
+    Fix Readme License
+
+ LICENSE.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 32868d68abb28319432349b2840d0e3fb0d0ffe0
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 14:21:34 2026 +0100
+
+    Personal Fix
+
+ Imatges/{logo.png.png => logo.png} | Bin
+ README.md                          |  67 ++++++++++++++++++-------------------
+ 2 files changed, 33 insertions(+), 34 deletions(-)
+
+commit 8f4a2b418585939571558df37af38955cdedb1db
+Author: Gorka <gornunlle@iespoblenou.org>
+Date:   Fri Nov 20 14:06:12 2026 +0100
+
+    Add validation 2 file
+
+ validation2.txt | 126 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 126 insertions(+)
+
 commit ae39f0180106f4cd773a12c3f2b3ae2566c1781b
 Merge: ddc6528 41750f8
 Author: GorkaNLL <gornunlle@iespoblenou.org>
